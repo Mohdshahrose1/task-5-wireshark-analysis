@@ -1,0 +1,7 @@
+**Task 5: Wireshark Network Traffic Analysis**
+
+- Captured live packets using Wireshark.
+- Generated traffic via browser and ping command.
+- Identified HTTP, DNS, and TCP protocols.
+- Applied filters and exported `.pcap` file.
+- Documented findings in structured `README.md`.
